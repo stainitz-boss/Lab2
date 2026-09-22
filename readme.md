@@ -28,8 +28,9 @@
 7. **Конец**
 
 ### Блок-схема
+<img width="278" height="687" alt="image" src="https://github.com/user-attachments/assets/bd9b3772-1f21-4da3-8795-8f891b0c66ff" />
 
-> 📎 *Вставьте ссылку на изображение вашей блок-схемы, созданной в [draw.io](https://draw.io)*
+
 ## 2. Реализация программы
 
 ```
